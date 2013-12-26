@@ -1,0 +1,220 @@
+THIS WILL BE THE BEST LEVEL YOU HAVE EVER PLAYED!! READ THIS AND PLAY IT!! 
+
+START UP NOTES: Pkunzip the level to your Doom2 directory
+                then execute ThePath.bat. Or type the following
+                doom2 -file thepath.wad 
+
+Title                   : The Secret Path   
+Name of wadfile         : ThePath.wad   
+Doom Version            : This wad is only playable in Doom 2, Doom 1
+                          version may be released in the near future. 
+Author                  : John Graham
+Location                : Melbourne, Australia  
+Time of release         : November 96 
+Email Address           : dolphin@alphalink.com.au 
+Micellanous Author info : Well you don't need to know this but I'll 
+                          put it in for all those weirdo's out there.
+                          I am 15 (But please don't let that put you off)
+                          And think doing handstands ontop of sky-scrapers
+                          is fun.
+Description             : This is a huge wad that is set way under ground.
+                          It is totally futureistic and includes many clever
+                          effects.  Even though this wad is massive, (over
+                          6000 linedefs) it is not annoying in the sense
+                          that it is just one huge maze that take 5 hours
+                          to complete. The whole wad flows in one direction
+                          you never feel that you are not getting anywhere.
+                          So, the massive amount of linedefs have gone into
+                          brilliant, intricute and well thought out architecture
+                          . 
+Story                   : Your name is Nelson McFare. You've been sent in to
+                          finish up where Fly Taggert left off. They have sent
+                          you in to clean up any left overs that could be running 
+                          around the base freely. Apperently, there is a secret under
+                          ground community that leads directly from the hanger to 
+                          the anomaly. Fly didn't know it was there and therefore 
+                          missed it. The demons didn't though. Kill all remaining
+                          monsters in the tunnel, leave no survivors, take no 
+                          prisoners.
+
+                           
+Gameplay                : This is best suited to co-op and single player.
+                          Death match is not able. It is not that I didn't  
+                          to include it, it just did not want to seem to work
+                          when put in new death match rules mode.
+ 
+
+* Play Information *
+--------------------
+
+PLEASE NOTE!!!!! When you see a large coloured square on the ground in one room
+and then the same coloured square in another, it means that the two rooms or 
+switches or doors are connected in some way! (ie a switch with a blue square next 
+to it will open a sector or door with another bloor square beside it)
+
+Map Numbers             : Map 07 
+Version of level        : Well, this is the first but it is highly likely
+                          that I will make another version for Doom one for
+                          those 3 or 4 people in the computing world who
+                          unfortunatly do not own Doom 2. (I suggest you
+                          get out a bit more people). 
+Single Player           : YES! This is mainly what the wad is designed for.
+Cooperative 2-4 Player  : Most certainly.
+Deathmatch 2-4 Player   : Nope
+Difficulty Settings     : As if I wouldn't. :)
+New Sounds              : Yes. The sounds were taken from the  movies, 
+                          Total Recall, Aliens, Terminator 2, and 
+                          Hellraiser 3. And yes they were actually recorded
+                          modified and imported by myself. 
+                          
+New Music               :Maybe if I ever get round to writing it. 
+                          
+New Graphics            : Yes, well sort of. What I've done is import a 
+                          waterfall texture which replaces the bloodfall
+                          texture. I've also inserted a little texture I
+                          whipped up for good looks. Also, there are Doom
+                          1 textures that are also included.
+                          
+              
+Demos Replaced          : None
+
+* Construction *
+----------------
+Base                    : Heavy, heavy, heavy, heavy modified E1 M1 from 
+                          Doom 1. It was only done for the story line, not
+                          for any architectural purposes. Actually, if you
+                          measured the lindefs that the extracted section
+                          of level is to the new parts I have made, they
+                          work out to about 1/100th!!
+PC Used                 : 486DX33 8 megs ram.
+Build Time              : This wad has been about a year in the making.
+                          Of coarse I didn't work on it for all that time.
+                          (Use your heads people!)
+Editor(s) used          : DEU52GCC - The second best program ever invented for 
+                          levels editing. This program allows you to 
+                          create unlimited sized wads and NOT RUN OUT OF
+                          MEMORY!!! 
+                          DETH - The BEST level editting program for DOOM,
+                          DOOM 2, HEXEN, HERETIC and STRIFE (quite a good 
+                          little game with great textures just no game play.)
+                          If it wasn't for this program my wad wouldn't be!!
+                          Deep (original version), 
+                          DeepBsp - the best nodes builder available today 
+                          DShrink
+                          DMGraph
+                          DMaud
+                          Deu 2 - (shit, I ran out of memory at 1200 lindefs!)
+                          Deu53GCC Beta 9 - (this beta version did not allow
+                          me to insert textures so was only useful to build
+                          sectors, but I can see this is going to be a kick -
+                          ass program when it comes out. (Hopefully it will
+                          have unlimited memory like its younger brother.)
+                          Picture Publisher - (for modifying the textures)
+                          Doom2wad - easy way of changing Doom 1 map names
+                          to Doom 2 map names.
+                          Doom1-2.wad - This file lets you use Doom 1 textures
+                          in Doom 2.
+                          Deep835s - A newer version of Deep (orr derrrr)
+                          EdMap - Good zoom (1 by 1 detail), bit this program
+                          ran out of memory after I had made the first room!
+                          BSP 1.1 - Used in the early stages of development.
+                          NWT - good for inserting textures and sounds.
+Features of this WAD    : Where to start......
+                          False floor, yes thats right, a floor you can
+                          fall into. If you find it you'll be in for a 
+                           tasty suprise. At the end of this TXT file will
+                          a spoiler telling you where it is so you can just
+                          marvel at this incredible technology.
+                          Deep water, aka water you can fall into. (With
+                          regards to Michael MacCana who taught me this
+                          fabulous use of invisible sectors.
+                          Grates that can open. Has to be see to be believed!
+                          Original use of lighting to capture a very clever
+                          affect. Magnetic repulse lifts (ie invisible stairs  
+                          that rise) Invisible lifts. Deep water with only 2
+                          sectors. Play it and check it out.
+                          Realistic eviroment design.
+Known Bugs              : There is none except for slow game play on anything 
+                          less than a 486DX250. A few magic lines here and 
+                          there, and sometimes strange sound effects can be 
+                          heard. They sound like little children whispering
+                          with a devil like tone. It is a sound defect in the
+                          DOOM engine but I like to think them as little 
+                          demons trying to break free from you computer into the
+                          real world. Possesing your body and turning life as we 
+                          know it into hell itself. :) When loading, the little
+                          blue disk might dissapear and everything looks like it
+                          has frozen. THIS IS NORMAL!!!! Don't reset the computer
+                          thinking it has crashed, the level is so big it takes
+                          ages to load. You cannot save, it crashes DOOM 2 and 
+                          subsequently your computer. So, if you are very far in the
+                          level and are about to die (this next thing I'm going to 
+                          say is to be a fisrt from any wad designer in the world)
+                          I DO permit you to pause and put GOD MODE ON! - until
+                          the offending monsters have been dispatched, after which
+                          I beg you to take the warm and comforting bliss of
+                          not being able to die off.
+Slowdown                : Seeing as I made this level on a 486 33, you'd think
+                          it run well on it, well it doesn't - in a way. At 
+                          the beggining it runs slow but as you progress it runs
+                          very well. On my computer it is acceptable on a medium
+                          screen low detail, but it runs quite superb on
+                          anything above a 486DX2 50mhz in high detail. So, play
+                          it and judge for yourself.
+
+
+Other wads by the Author: This is my first wad.  
+
+Additional credits: I would like to thank Micheal MacCana most of all for his
+invaluable help. Without this one crazed DOOM fan, my level with not be as cool.
+He got me into DOOM level building and provided me with the basic instructions
+and programs to start me off. He has always been there for advice and support.
+He is also my major beta tester.
+Luke Porter for his testing and compliments - one of which goes along the lines 
+of "this is the best wad I have ever played".
+
+Authors comments: This level has been the centre of my attention in terms 
+spare time for the last year. Many times have I stayed awake all night working
+on it. I could have finished it months ago, but I wanted this wad to special,
+to be ground breaking, something that has never been seen before. People, this
+level is special, no other wad I know even comes close in terms of detail and
+ideas defying DOOM's rather limited engine. This wad is class, and I am not
+just saying it because I made it, I saying it because it is the truth. It is 
+the biggest single level ever made, reaching over six thousand line defs and
+exceeding 1 meg in size without textures and sounds included. You would get just
+as much enjoyment by putting on the nomonsters parametre and walking through it
+looking at the architecture which is awe inspiring; breathtaking. Please, don't
+think I'm being cocky, I am merely stating the truth. over 3000 hours have gone into
+the making. THIS WILL BE THE BEST WAD YOU HAVE EVER PLAYED.
+Hope enjoy it, I know you will. :)
+
+Spoilers: In the water tank is the false floor. You have to climb into the rim 
+and then just diev in. A lot of nice treats lay underwater. The three paths
+are meant to get progressivly harder. All weapons can be found in each, except
+the first path in which you cannot aquire the plasma. At the beggining of the level
+the good weapons are secrets but they become easily obtained as the level progresses.
+In the first path to aquire the BFG you have to go and look inside the room 
+where the two machine soldiers are waiting (you walk over a W1 fast open door 
+linedef and they jump out at you). When scavaging for the ammo and health you
+should notice a blinking red square. Remember this. When you see it again in another
+room which is the small hectagonal room leading from the raising stairs room. 
+Once entered that room go back to the previous red square room, a switch has been 
+lowered. Flick it then go back to the hectagonal red square room, voila! the BFG
+The plasma gun is in the second path. Go to the toilet, where the Revenent is and kill it.
+Then flush the toilet, the plasma should appear before your eyes!!
+In the final path, to get to that really helpful ledge that has everything, 
+flick the switch to lower the lift, two lifts will lower, get on the FIRST one
+and position yourself in the middle. Let it take you up. To one side there is a switch and to the other
+there is a Invince Sphere. Flick the switch and go back down the lift, to your right
+you will see that the barrier stopping you from getting to a door has temporarily
+lowered. Quickly go in it and open the door. There you have it!
+There are some more secrets that you will have to find yourself. Have Fun!!
+
+Whether or not you can modify this wad: Look, there is no one stopping you from 
+doing so, but I'd rather you didn't. The level is so big that the only modifying
+you will really be able to do is things and textures. If you do modify it, I want to be known
+as the creator of the level and I want you to distribute the original copy with the
+the modified one. Thanx! Anyway you can't modify it, I have used to shrink, so
+basically it is impossible now. Have a nice day.
+
+
